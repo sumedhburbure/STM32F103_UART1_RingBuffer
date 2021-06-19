@@ -9,7 +9,7 @@
 * the binary file size low.
 *
 *	Author : Sumedh S. Burbure     
-* Email ID: sumedh2670@gmail.com
+* Email ID: sumedhburbure@outlook.com
 ********************************************************************/
 
 #include "main.h"
